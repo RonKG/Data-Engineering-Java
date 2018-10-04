@@ -21,7 +21,7 @@ The java folders and classes are organized as follows:
 	- Other supporting files
 
 
-Project Requirements are defined below:
+** Project Requirements are defined below: **
 
 2.1 Functional Requirements – Operational Database
 
