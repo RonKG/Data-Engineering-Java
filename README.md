@@ -1,12 +1,15 @@
 Minimum Requirements:
 
-	- JavaSE 1.8
-	
-	- MySQL
-	
-	MySQL Java Connector 5.1.47
-	Create the DB by running .SQL file on terminal or Work Bench.
-	Project build is done on Eclipse IDE.
+- JavaSE 1.8
+
+- MySQL
+
+- MySQL Java Connector 5.1.47
+
+- Create the DB by running .SQL file on terminal or Work Bench.
+
+- Project build is done on Eclipse IDE.
+
 	
 This project demonstrates proficiency in Core Java and (ANSI) SQL. I used Java to build a backend program that performs some basic and advanced database operations on a MySQL RDBMS. By the end of the project, 
 I have demonstrated how to add, delete and alter db entries. The main database is created from a SQL script provided in this repository. The connection to the db is achieved through a JDBC Driver.
