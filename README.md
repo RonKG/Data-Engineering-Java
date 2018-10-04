@@ -21,11 +21,11 @@ The java folders and classes are organized as follows:
 	- Other supporting files
 
 
-** Project Requirements are defined below: **
+## Project Requirements are defined below:
 
-2.1 Functional Requirements – Operational Database
+### 2.1 Functional Requirements – Operational Database
 
-	2.1.1 Transaction Details - Functional Requirements
+	##### 2.1.1 Transaction Details - Functional Requirements
 
 	1) To display the transactions made by
 	customers living in a given zipcode for a
@@ -36,7 +36,7 @@ The java folders and classes are organized as follows:
 	3) To display the number and total values of
 	transactions for branches in a given state
 
-	2.1.2 Customer Details  - 
+	##### 2.1.2 Customer Details  - 
 	
 	1) To check the existing account details of a
 	customer.
