@@ -15,10 +15,10 @@ This project demonstrates proficiency in Core Java and (ANSI) SQL. I used Java t
 I have demonstrated how to add, delete and alter db entries. The main database is created from a SQL script provided in this repository. The connection to the db is achieved through a JDBC Driver.
 
 The java folders and classes are organized as follows:
-..* Model Classes
-..* DAO (DataAccessObjects)
-..* Runner Classes
-..* Other supporting files
+1. Model Classes
+2. DAO (DataAccessObjects)
+3. Runner Classes
+4. Other supporting files
 
 
 ## Project Requirements are defined below:
